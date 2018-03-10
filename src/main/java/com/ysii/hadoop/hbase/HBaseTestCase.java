@@ -14,7 +14,7 @@ import java.io.IOException;
 /**
  * Hbase 例子
  * @author yskkysll
- * @version 1.1.0
+ * @version 1.0
  */
 public class HBaseTestCase {
 

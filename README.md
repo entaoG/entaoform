@@ -9,4 +9,8 @@ Core project
     zookpeer相关配置文件：hbase-site.xml
     HBase example
     com/ysii/hadoop/hbase/HBaseTestCase.jave 
-     
+### Kafka
+    生产者：
+    com/ysii/hadoop/kafka/ProducerDemo.java 
+    消费者
+    com/ysii/hadoop/kafka/ConsumerDemo.java 
