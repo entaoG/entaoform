@@ -7,4 +7,6 @@ Core project
     com/ysii/picture/PictureChange.java
 ### HBase
     zookpeer相关配置文件：hbase-site.xml
+    HBase example
+    com/ysii/hadoop/hbase/HBaseTestCase.jave 
      
