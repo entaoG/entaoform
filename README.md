@@ -5,4 +5,6 @@ Core project
      com/ysii/fileOperation/DateFormatInFile.java
 ### 目录下图片更名操作程序 
     com/ysii/picture/PictureChange.java
-
+### HBase
+    zookpeer相关配置文件：hbase-site.xml
+     

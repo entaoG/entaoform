@@ -5,7 +5,8 @@ import java.io.*;
 /**
  * 图片处理
  * update time 20180112
- * @author ysii
+ * @author yskkysll
+ * @version 1.1.0
  */
 
 public class PictureChange

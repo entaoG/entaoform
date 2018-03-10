@@ -1,5 +1,8 @@
 package com.ysii.utils.mathTools;
 
+/**
+ * @author yskkysll
+ */
 public class TriFunction {
     public static void main(String[] args) {
         //计算30°的正玄值

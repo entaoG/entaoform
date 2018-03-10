@@ -11,7 +11,8 @@ import java.io.InputStreamReader;
 /**
  * 源文件中日期的格式为month/day/year
  * 将其改为year/month/day格式
- * @author ysii
+ * @author yskkysll
+ * @version 1.1.0
  *
  */
 public class DateFormatInFile {
