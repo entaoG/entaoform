@@ -14,5 +14,5 @@ Core project
     com/ysii/hadoop/kafka/ProducerDemo.java 
     消费者
     com/ysii/hadoop/kafka/ConsumerDemo.java 
-### Kafka和flume连通
+### Kafka和flume连通 by flume avro Source
     com.ysii.hadoop.flumekafka.flumkafkaCn
