@@ -16,3 +16,8 @@ Core project
     com/ysii/hadoop/kafka/ConsumerDemo.java 
 ### Kafka和flume连通 by flume avro Source
     com.ysii.hadoop.flumekafka.flumkafkaCn
+## Socket实例
+### 普通Socket 
+    com.ysii.socket.commonsocket.Client.java
+    com.ysii.socket.commonsocket.Server.java
+   
