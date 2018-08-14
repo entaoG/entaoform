@@ -1,4 +1,4 @@
-package com.ysii.hadoop.flumekafka;
+package main.java.com.ysii.hadoop.flumekafka;
 
 import org.apache.flume.Event;
 import org.apache.flume.EventDeliveryException;

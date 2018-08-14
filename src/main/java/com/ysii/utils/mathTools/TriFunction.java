@@ -1,4 +1,4 @@
-package com.ysii.utils.mathTools;
+package main.java.com.ysii.utils.mathTools;
 
 /**
  * @author yskkysll
